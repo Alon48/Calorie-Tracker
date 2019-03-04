@@ -1,0 +1,9 @@
+{
+  "homepage": "https://Alon48.github.io/Calorie-Tracker-Application",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
